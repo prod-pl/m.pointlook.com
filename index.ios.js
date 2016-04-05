@@ -31,7 +31,7 @@ var PointLook = React.createClass({
     border: function(color) {
                 return {
                     borderColor: color,
-                    borderWidth: 2
+                    borderWidth: 4
 
                 }
             }
